@@ -848,6 +848,7 @@ enum {
   , WV_FDI
   , WV_FDL
   , WV_FDM
+  , WV_FDR
   , WV_FML
   , WV_FDN
   , WV_FDE
